@@ -9,5 +9,7 @@ class Book
   end
   def author=(author)
     @author = author
+   end
+   def author
 end
 book1= Book.new("And Then There Were None")
