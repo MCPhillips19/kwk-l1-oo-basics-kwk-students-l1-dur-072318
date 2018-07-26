@@ -20,5 +20,7 @@ class Shoe
  def condition
    @condition=condition
  end
+ def cobble
+   puts ""
 end 
   
